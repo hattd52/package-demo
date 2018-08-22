@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Welcome\Http;
+namespace Ha\Welcome\Http;
 
 class WelcomeController{
 
