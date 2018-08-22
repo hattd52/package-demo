@@ -1,21 +1,21 @@
 {
-    "name": "devdojo/welcome",
+    "name": "ha/welcome",
     "authors": [
         {
-            "name": "Tony Lea",
-            "email": "tnylea@gmail.com"
+            "name": "Ha Nguyen",
+            "email": "ha@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Devdojo\\Welcome\\": "src/"
+            "Ha\\Welcome\\": "src/"
         }
     },
     "extra": {
     	"laravel": {
     		"providers": [
-    			"Devdojo\\Welcome\\WelcomeServiceProvider"
+    			"Ha\\Welcome\\WelcomeServiceProvider"
     		]
     	}
     }
