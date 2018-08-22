@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Welcome;
+namespace Ha\Welcome;
 
 use Illuminate\Support\ServiceProvider;
 
